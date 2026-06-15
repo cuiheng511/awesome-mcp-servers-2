@@ -108,6 +108,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/files/4A90E2" height="14"/> [FileSystem](https://github.com/mark3labs/mcp-filesystem-server)<sup><sup>2</sup></sup> - Golang implementation for local file system access
 - <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> [Everything Search](https://github.com/mamertofabian/mcp-everything-search) - Lightning-fast Windows file search powered by Everything SDK
 - <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) - Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.
+- <img src="https://raw.githubusercontent.com/cuiheng511/filepilot-ai/main/filepilot/resources/app.png" height="14"/> [FilePilot AI](https://github.com/cuiheng511/filepilot-ai) - Local-first file intelligence MCP server with allowlisted roots, read-only defaults, bounded reads, search, summaries, tags, duplicate detection, dry-run organization plans, and audit logs.
 - <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> [llm-context](https://github.com/cyberchitta/llm-context.py) - Share code context with LLMs via Model Context Protocol or clipboard
 
 <br />
